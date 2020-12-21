@@ -1,3 +1,4 @@
 name pepe
 age 25
-favorite color yellow∫
+favorite color yellow
+new line
